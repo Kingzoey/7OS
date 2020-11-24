@@ -1,1 +1,3 @@
-# OS_TJ
+# 7OS
+
+A project for OS of Tongji.
